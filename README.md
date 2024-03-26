@@ -3,7 +3,7 @@
 This project aims to simplify the process of posting content to multiple social media platforms using a single Python script. With just a few simple steps, you can post your content to Twitter, Facebook, and Instagram simultaneously!
 
 📁 Directory Structure:
-project_directory/
+SocialSync/
 │
 
 ├── post_content.sh
