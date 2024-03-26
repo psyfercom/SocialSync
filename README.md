@@ -5,7 +5,9 @@ This project aims to simplify the process of posting content to multiple social 
 📁 Directory Structure:
 project_directory/
 │
+
 ├── post_content.sh
+
 └── script.py
 
 📝 How to Use:
